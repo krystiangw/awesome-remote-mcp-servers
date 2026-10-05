@@ -650,7 +650,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Live gas fees and USD tx costs on Base, Ethereum, Arbitrum, Optimism and Polygon; x402 pay-per-call.
 - [Agent Rynku](https://agentrynku.pl/en/mcp) `https://agentrynku.pl/api/mcp`
   [![Agent Rynku MCP connector](https://glama.ai/mcp/connectors/pl.agentrynku/gpw/badges/score.svg)](https://glama.ai/mcp/connectors/pl.agentrynku/gpw)
-  🔓 - GPW company search, quarterly financials and ratios, earnings calendar, and issuer dividend resolutions.
+  🔓 - GPW daily equity prices, company search, quarterly financials and ratios, earnings calendar, and issuer dividends.
 - [Agent Souk](https://agentsouk.dev) `https://api.agentsouk.dev/mcp`
   [![Agent Souk MCP connector](https://glama.ai/mcp/connectors/dev.agentsouk/agentsouk/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentsouk/agentsouk)
   🔓 - Marketplace for AI agents: register in one call, hire or sell services, and post USDC bounties on Base.
